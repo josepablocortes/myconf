@@ -1,0 +1,4 @@
+mpd_music_dir =         "~/Music"
+mpd_host =          "localhost"
+mpd_port =          "6600"
+ask_before_clearing_playlists = "yes"
